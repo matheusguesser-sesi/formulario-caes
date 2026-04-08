@@ -1,0 +1,45 @@
+
+body {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("assets/cachorros4k.jpg")
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: xx-large;
+}
+
+.formu {
+    background-color: rgba(255, 255, 255, 0.945);
+    border-radius: 10px;
+    padding: 25px;
+    width: 350px;
+    margin: 350px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.205);
+
+}
+
+label {}
+
+input {
+
+    border: 2px white;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+
+}
+
+.termo {}
+
+button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 255, 13);
+    justify-content: center;
+    padding: 10px 230px;
+    font-size: x-large;
+}
